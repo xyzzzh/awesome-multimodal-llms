@@ -1,6 +1,6 @@
 # Awesome Multimodal LLMs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated directory of **multimodal large language models** — vision-language models, video-understanding models, and audio/speech-capable models — plus the **benchmarks, frameworks, and datasets** around them, as of **September 2026**.
+> A curated directory of **multimodal large language models** — vision-language models, video-understanding models, and audio/speech-capable models — plus the **benchmarks, frameworks, and datasets** around them, with per-entry verification dates.
 
 **Verification confidence:** entries are stamped ✅ **verified** with their individual verification dates (existence and category checked on an official project page, vendor site, repository, model/dataset card, conference page, or arXiv). **Specs, scores, and claims are never guessed.** Machine-readable records live in [`data/multimodal-llms.json`](data/multimodal-llms.json) with a `verified` boolean plus `verified_date`/`verified_source` for every entry (`unverified_reason` is used whenever an entry can't be confirmed).
 
