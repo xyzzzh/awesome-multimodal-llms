@@ -210,6 +210,16 @@
     "verified_source": "Official model card (huggingface.co/microsoft/Florence-2-large)"
   },
   {
+    "name": "Jag",
+    "vendor": "Jag authors",
+    "url": "https://github.com/xyzzzh/Jag",
+    "description": "Grounding-specialized vision-language model that adapts Qwen3.5-0.8B to predict a continuous bounding box from an image and referring expression in one forward pass.",
+    "category": "vision-language-model",
+    "verified": true,
+    "verified_date": "2026-10-20",
+    "verified_source": "Official Jag repository (https://github.com/xyzzzh/Jag), model card (https://huggingface.co/xyzzzh/Jag), and paper (https://arxiv.org/abs/2610.13239)"
+  },
+  {
     "name": "Idefics3",
     "vendor": "Hugging Face",
     "url": "https://huggingface.co/HuggingFaceM4/Idefics3-8B-Llama3",

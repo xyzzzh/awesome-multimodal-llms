@@ -2,9 +2,9 @@
 
 > A curated directory of **multimodal large language models** — vision-language models, video-understanding models, and audio/speech-capable models — plus the **benchmarks, frameworks, and datasets** around them, as of **September 2026**.
 
-**Verification confidence:** every entry is stamped ✅ **verified 2026-09-30** (existence and category checked on an official project page, vendor site, repository, model/dataset card, conference page, or arXiv). **Specs, scores, and claims are never guessed.** Machine-readable records live in [`data/multimodal-llms.json`](data/multimodal-llms.json) with a `verified` boolean plus `verified_date`/`verified_source` for every entry (`unverified_reason` is used whenever an entry can't be confirmed).
+**Verification confidence:** entries are stamped ✅ **verified** with their individual verification dates (existence and category checked on an official project page, vendor site, repository, model/dataset card, conference page, or arXiv). **Specs, scores, and claims are never guessed.** Machine-readable records live in [`data/multimodal-llms.json`](data/multimodal-llms.json) with a `verified` boolean plus `verified_date`/`verified_source` for every entry (`unverified_reason` is used whenever an entry can't be confirmed).
 
-**69 entries** — all 69 verified on official sources as of 2026-09-30.
+**70 entries** — all verified on official sources; individual verification dates are shown below.
 
 ## 2026 Highlights
 
@@ -54,6 +54,7 @@ Image-understanding LLMs — open-weight families and proprietary flagships.
 - [PaliGemma 2](https://huggingface.co/google/paligemma2-3b-pt-224) — ✅ verified 2026-09-30. Google's open vision-language model family pairing SigLIP vision with Gemma.
 - [SmolVLM](https://huggingface.co/blog/smolvlm) — ✅ verified 2026-09-30. Hugging Face's tiny open vision-language models designed for on-device and edge use.
 - [Florence-2](https://huggingface.co/microsoft/Florence-2-large) — ✅ verified 2026-09-30. Microsoft's compact vision foundation model for captioning, detection, grounding, and OCR.
+- [Jag](https://github.com/xyzzzh/Jag) — ✅ verified 2026-10-20. Grounding-specialized vision-language model that adapts Qwen3.5-0.8B to predict a continuous bounding box from an image and referring expression in one forward pass.
 - [Idefics3](https://huggingface.co/HuggingFaceM4/Idefics3-8B-Llama3) — ✅ verified 2026-09-30. Hugging Face's open vision-language model with strong document and multi-image understanding.
 - [Gemma 3](https://deepmind.google/technologies/gemma/) — ✅ verified 2026-09-30. Google's open-weight model family with vision understanding in its multimodal variants.
 - [Llama 4](https://www.llama.com/) — ✅ verified 2026-09-30. Meta's open-weight multimodal model family with native image understanding.
